@@ -19,7 +19,9 @@ cd api-rest
 API disponível em:  
 http://localhost:8080
 
-Collection disponível no postman com todas as requisições necessárias para testar a API: 
+Collection do postman disponível para conseguir realizar todos os testes nos endpoints disponibilizados:
+
+[**Download do arquivo JSON:** REST API basics- CRUD.Users.json](https://github.com/jornadev/api-rest/blob/main/src/main/resources/assets/Rest%20API%20Users.postman_collection.json)
 
 ---
 
